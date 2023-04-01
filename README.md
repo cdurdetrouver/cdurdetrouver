@@ -2,7 +2,7 @@
 - 🔭 I’m currently creating a bot discord/dashboard
 - 🌱 I’m currently learning **Angular**
 - 👯 I’m looking to collaborate on **OpenSource Projects**
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://cdurdetrouver.com)**
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://cdurdetrouver.github.io)**
 - 📫 How to reach me **gabriel.bazart@gmail.com**
 - ⚡ Fun fact **Puss in boots 2 is the GOAT**
 
