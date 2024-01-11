@@ -1,7 +1,6 @@
 <p align="center"><img height="auto" src="https://media0.giphy.com/media/YRMb6dd7zprS00JdGZ/giphy.gif?cid=ecf05e47pp9oy2ivxoy3aif9mvewoex6jc5ywnem9njblkob&ep=v1_stickers_search&rid=giphy.gif&ct=s"/></p>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Gabriel</h1>
 
-<div align="center">
 # 💫 About Me:
 - 🔭 I’m currently student at &emsp; [![42 School](https://42.fr/wp-content/uploads/2021/05/42-Final-sigle-seul.svg)](https://42.fr/)
 - 🌱 I’m currently learning **SvelteKit**
@@ -9,7 +8,6 @@
 - 👨‍💻 All of my projects are available at My Portfolio Soon
 - 📫 How to reach me **gabriel.bazart@gmail.com**
 - ⚡ Fun fact **Puss in boots 2 is the GOAT**
-</div>
 
 
 ## 🌐 Socials:
