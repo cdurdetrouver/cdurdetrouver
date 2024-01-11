@@ -1,10 +1,6 @@
 <p align="center"><img height="auto" src="https://media0.giphy.com/media/YRMb6dd7zprS00JdGZ/giphy.gif?cid=ecf05e47pp9oy2ivxoy3aif9mvewoex6jc5ywnem9njblkob&ep=v1_stickers_search&rid=giphy.gif&ct=s"/></p>
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Zelalem</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Gabriel</h1>
 <h3 align="center">I'm a stduent at 42 School.</h3>
-
-<h2 align="center">
-## :raising_hand_man: About Me
-</h2>
 
 # 💫 About Me:
 - 🔭 I’m currently student at &emsp; [![42 School](https://42.fr/wp-content/uploads/2021/05/42-Final-sigle-seul.svg)](https://42.fr/)
