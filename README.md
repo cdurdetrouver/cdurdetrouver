@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 🔭 I’m currently student at [![42 School](https://42.fr/wp-content/uploads/2021/05/42-Final-sigle-seul.svg)](https://www.linkedin.com/in/gabriel-bazart-87b3ab265/)
+- 🔭 I’m currently student at [![42 School](https://42.fr/wp-content/uploads/2021/05/42-Final-sigle-seul.svg)](https://42.fr/)
 - 🌱 I’m currently learning **SvelteKit**
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 - 👨‍💻 All of my projects are available at My Portfolio Soon
