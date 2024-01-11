@@ -1,6 +1,10 @@
-<di>
-      <image src="https://giphy.com/embed/u2pmTWUi0MXjyrMaVj" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></image>
-</div>
+<p align="center"><img height="auto" src="https://giphy.com/embed/u2pmTWUi0MXjyrMaVj"/></p>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Zelalem</h1>
+<h3 align="center">I'm a passionate Full Stack Developer from Ethiopia.</h3>
+
+<h2 align="center">
+## :raising_hand_man: About Me
+</h2>
 
 # 💫 About Me:
 - 🔭 I’m currently student at &emsp; [![42 School](https://42.fr/wp-content/uploads/2021/05/42-Final-sigle-seul.svg)](https://42.fr/)
