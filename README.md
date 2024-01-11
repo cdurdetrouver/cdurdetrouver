@@ -2,14 +2,14 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Gabriel</h1>
 
 <h2 align="center">💫 About Me:</h2>
-<ul align ="center" style="list-style-type: none;">
-      <li> 🔭 I’m currently student at &emsp; <a href="https://42.fr/"><img src="https://42.fr/wp-content/uploads/2021/05/42-Final-sigle-seul.svg"/></a> </li>
-      <li> 🌱 I’m currently learning <strong>SvelteKit</strong> </li>
-      <li> 👯 I’m looking to collaborate on <strong>OpenSource Projects</strong> </li>
-      <li> 👨‍💻 All of my projects are available at My Portfolio Soon </li>
-      <li> 📫 How to reach me <strong>gabriel.bazart@gmail.com</strong> </li>
-      <li> ⚡ Fun fact <strong>Puss in boots 2 is the GOAT</strong> </li>
-</ul>
+<div align ="center">
+      <p> 🔭 I’m currently student at &emsp; <a href="https://42.fr/"><img src="https://42.fr/wp-content/uploads/2021/05/42-Final-sigle-seul.svg"/></a> </p>
+      <p> 🌱 I’m currently learning <strong>SvelteKit</strong> </p>
+      <p> 👯 I’m looking to collaborate on <strong>OpenSource Projects</strong> </p>
+      <p> 👨‍💻 All of my projects are available at My Portfolio Soon </p>
+      <p> 📫 How to reach me <strong>gabriel.bazart@gmail.com</strong> </p>
+      <p> ⚡ Fun fact <strong>Puss in boots 2 is the GOAT</strong> </p>
+</div>
 
 <h2 align="center">🌐 Socials:</h2>
 <div align="center">
