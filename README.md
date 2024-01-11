@@ -2,12 +2,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Gabriel</h1>
 
 <h2 align="center">💫 About Me:</h2>
-  <style>
-    ul {
-      list-style-type: none;
-    }
-  </style>
-<ul align ="center">
+<ul align ="center" style="list-style=none;">
       <li> 🔭 I’m currently student at &emsp; <a href="https://42.fr/"><img src="https://42.fr/wp-content/uploads/2021/05/42-Final-sigle-seul.svg"/></a> </li>
       <li> 🌱 I’m currently learning <strong>SvelteKit</strong> </li>
       <li> 👯 I’m looking to collaborate on <strong>OpenSource Projects</strong> </li>
