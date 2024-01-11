@@ -1,12 +1,5 @@
-| Column 1 | Column 2 | Column 3 |
-|----------|----------|----------|
-| Row 1, Column 1 | Row 1, Column 2 | Row 1, Column 3 |
-| Row 2, Column 1 | Row 2, Column 2 | Row 2, Column 3 |
-
-
-
 # 💫 About Me:
-- 🔭 I’m currently student at ---------- [![42 School](https://42.fr/wp-content/uploads/2021/05/42-Final-sigle-seul.svg)](https://42.fr/)
+- 🔭 I’m currently student at emsp [![42 School](https://42.fr/wp-content/uploads/2021/05/42-Final-sigle-seul.svg)](https://42.fr/)
 - 🌱 I’m currently learning **SvelteKit**
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 - 👨‍💻 All of my projects are available at My Portfolio Soon
