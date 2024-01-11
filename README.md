@@ -20,7 +20,7 @@
 </div>
 
 <h2 align="center">💻 Tech Stack:</h2>
-<div style="margin-left:40px;">
+<div align="center">
 <img src="https://img.shields.io/badge/-HTML5-f06529?style=for-the-badge&labelColor=black&logo=html5&logoColor=f06529"> <img src="https://img.shields.io/badge/-CSS3-2965f1?style=for-the-badge&labelColor=black&logo=css3&logoColor=2965f1"> <img src="https://img.shields.io/badge/Sass-c69?style=for-the-badge&labelColor=black&logo=sass&logoColor=c69"> <img       src="https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F"> <img src="https://img.shields.io/badge/-C++-044F88?style=for-the-badge&labelColor=black&logo=cplusplus&logoColor=044F88"> <img src="https://img.shields.io/badge/-Python-4B8BBE?style=for-the-badge&labelColor=black&logo=python&logoColor=4B8BBE"> <img src="https://img.shields.io/badge/-MySQL-00758F?style=for-the-badge&labelColor=black&logo=mysql&logoColor=00758F"> <img src="https://img.shields.io/badge/-Git-f34f29?style=for-the-badge&labelColor=black&logo=git&logoColor=f34f29"> <img src="https://img.shields.io/badge/-Postman-EF5B25?style=for-the-badge&labelColor=black&logo=postman&logoColor=EF5B25">
 </div>
 
