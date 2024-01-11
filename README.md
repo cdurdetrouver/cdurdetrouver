@@ -3,7 +3,7 @@
 
 <h2 align="center">💫 About Me:</h2>
 <ul align ="center">
-      <li> 🔭 I’m currently student at &emsp; [![42 School](https://42.fr/wp-content/uploads/2021/05/42-Final-sigle-seul.svg)](https://42.fr/) </li>
+      <li> 🔭 I’m currently student at &emsp; <a href="https://42.fr/"><img src="https://42.fr/wp-content/uploads/2021/05/42-Final-sigle-seul.svg"/></a> </li>
       <li> 🌱 I’m currently learning <strong>SvelteKit</strong> </li>
       <li> 👯 I’m looking to collaborate on <strong>OpenSource Projects</strong> </li>
       <li> 👨‍💻 All of my projects are available at My Portfolio Soon </li>
