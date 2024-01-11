@@ -7,7 +7,7 @@
       <p> 🌱 I’m currently learning <strong>SvelteKit</strong> </p>
       <p> 👯 I’m looking to collaborate on <strong>OpenSource Projects</strong> </p>
       <p> 👨‍💻 All of my projects are available at My Portfolio Soon </p>
-      <p> 📫 How to reach me <strong>gabriel.bazart@gmail.com</strong> </p>
+      <p> 📫 How to reach me <strong><a href="mailto:gabriel.bazart@gmail.com">gabriel.bazart@gmail.com</a></strong> </p>
       <p> ⚡ Fun fact <strong>Puss in boots 2 is the GOAT</strong> </p>
 </div>
 
