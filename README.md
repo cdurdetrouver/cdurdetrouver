@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 🔭 I’m currently take care of my business
+- 🔭 I’m currently student at 42 school
 - 🌱 I’m currently learning **SvelteKit**
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 - 👨‍💻 All of my projects are available at My Portfolio Soon
