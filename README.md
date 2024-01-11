@@ -12,10 +12,12 @@
 </ul>
 
 <h2 align="center">🌐 Socials:</h2>
+
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/HzqrkbqH7x) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-bazart-87b3ab265/) 
 
 <h2 align="center">💻 Tech Stack:</h2>
+
 [![HTML5 Badge](https://img.shields.io/badge/-HTML5-f06529?style=for-the-badge&labelColor=black&logo=html5&logoColor=f06529)](#) [![CSS3 Badge](https://img.shields.io/badge/-CSS3-2965f1?style=for-the-badge&labelColor=black&logo=css3&logoColor=2965f1)](#) [![Sass Badge](https://img.shields.io/badge/Sass-c69?style=for-the-badge&labelColor=black&logo=sass&logoColor=c69)](#) [![Typescript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![CPP Badge](https://img.shields.io/badge/-C++-044F88?style=for-the-badge&labelColor=black&logo=cplusplus&logoColor=044F88)](#)  [![Python Badge](https://img.shields.io/badge/-Python-4B8BBE?style=for-the-badge&labelColor=black&logo=python&logoColor=4B8BBE)](#)  [![MySQL Badge](https://img.shields.io/badge/-MySQL-00758F?style=for-the-badge&labelColor=black&logo=mysql&logoColor=00758F)](#)  [![Git Badge](https://img.shields.io/badge/-Git-f34f29?style=for-the-badge&labelColor=black&logo=git&logoColor=f34f29)](#) [![Postman Badge](https://img.shields.io/badge/-Postman-EF5B25?style=for-the-badge&labelColor=black&logo=postman&logoColor=EF5B25)](#)
 
 <h2 align="center">📊 GitHub Stats:</h2>
