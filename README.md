@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 🔭 I’m currently student at [![42 School](https://th.bing.com/th/id/OIP.Erzal3yjU5LcRK7tCURNogAAAA?rs=1&pid=ImgDetMain)](https://www.linkedin.com/in/gabriel-bazart-87b3ab265/)
+- 🔭 I’m currently student at [![42 School](https://www.guidedelamobilite.com/wp-content/uploads/2017/01/ecole_42_guide_de_la_mobilite-261x185.jpg)](https://www.linkedin.com/in/gabriel-bazart-87b3ab265/)
 - 🌱 I’m currently learning **SvelteKit**
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 - 👨‍💻 All of my projects are available at My Portfolio Soon
