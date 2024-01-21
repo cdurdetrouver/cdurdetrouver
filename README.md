@@ -38,13 +38,15 @@
 <table center="align">
       <tr>
             <td>
-
+                  
 ![Cdurdetrouver's GitHub stats](https://github-readme-stats-five-gules.vercel.app/api?username=cdurdetrouver&count_private=true&show_icons=true&theme=radical)
             </td>             
             <td>
                   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=cdurdetrouver&show_icons=true&locale=en&layout=compact&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="cdurdetrouver" />
             </td>
-            <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/darkgray/gbazart?1337Badge=off&UM6P=off" alt="gbazart's 42 stats" /></a>
+            <td>
+                  <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/darkgray/gbazart?1337Badge=off&UM6P=off" alt="gbazart's 42 stats" /></a>
+            </td>
       </tr>
 </table>
 
