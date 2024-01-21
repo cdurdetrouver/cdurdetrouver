@@ -1,7 +1,7 @@
 <div align="center" >
       <a href="#"><img height="auto" src="https://media0.giphy.com/media/YRMb6dd7zprS00JdGZ/giphy.gif?cid=ecf05e47pp9oy2ivxoy3aif9mvewoex6jc5ywnem9njblkob&ep=v1_stickers_search&rid=giphy.gif&ct=s"/></a>
 </div>
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Gabriel</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Gabriel</h1>  
 
 <h2 align="center">💫 About Me:</h2>
 <div align ="center">
@@ -11,14 +11,13 @@
       <p> 👨‍💻 All of my projects are available at My Portfolio Soon </p>
       <p> 📫 How to reach me <strong><a href="mailto:gabriel.bazart@gmail.com">gabriel.bazart@gmail.com</a></strong> </p>
       <p> ⚡ Fun fact <strong>Puss in boots 2 is the GOAT</strong> </p>
-</div>
+</div>  
 
-  
 <h2 align="center">🌐 Socials:</h2>
 <div align="center">
       <a href="https://discord.gg/https://discord.gg/HzqrkbqH7x"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white"></a>
       <a href="https://www.linkedin.com/in/gabriel-bazart-87b3ab265/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"></a>
-</div>
+</div>  
 
 <h2 align="center">💻 Tech Stack:</h2>
 <div align="center">
@@ -31,7 +30,7 @@
       <img src="https://img.shields.io/badge/-MySQL-00758F?style=for-the-badge&labelColor=black&logo=mysql&logoColor=00758F">
       <img src="https://img.shields.io/badge/-Git-f34f29?style=for-the-badge&labelColor=black&logo=git&logoColor=f34f29">
       <img src="https://img.shields.io/badge/-Postman-EF5B25?style=for-the-badge&labelColor=black&logo=postman&logoColor=EF5B25">
-</div>
+</div>  
 
 <h2 align="center">📊 Stats:</h2>
 <table align="center" border="0">
