@@ -46,8 +46,8 @@
             </td>
       </tr>
       <tr width="100%">
-            <td colspan="2">
-                  <a align="center" href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/darkgray/gbazart?1337Badge=off&UM6P=off" alt="gbazart's 42 stats" /></a>
+            <td colspan="2"  align="center">
+                  <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/darkgray/gbazart?1337Badge=off&UM6P=off" alt="gbazart's 42 stats" /></a>
             </td>
       </tr>
 </table>
