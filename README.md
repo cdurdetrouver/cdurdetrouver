@@ -46,6 +46,5 @@
 </table>
 
 <h2 align="center">42's stat:</h2>
-<img src="https://badge.mediaplus.ma/greenbinary/gbazart">
-[![gbazart's 42 stats](https://badge.mediaplus.ma/greenbinary/gbazart)]
+![gbazart's 42 stats](https://badge.mediaplus.ma/greenbinary/gbazart)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
