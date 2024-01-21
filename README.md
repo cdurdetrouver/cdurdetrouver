@@ -6,7 +6,7 @@
 <h1 align="center">💫 About Me:</h1>
 <div align ="center">
       <h3> 🔭 I’m currently student at &ensp; <a href="https://42.fr/"><img src="https://42.fr/wp-content/uploads/2021/05/42-Final-sigle-seul.svg" height="25px"/></a> </h3>
-      <h3> 🌱 I’m currently learning <strong>SvelteKit</strong> </h3>
+      <h3> 🌱 I’m currently learning <strong>C</strong> </h3>
       <h3> 👯 I’m looking to collaborate on <strong>OpenSource Projects</strong> </h3>
       <h3> 👨‍💻 All of my projects are available at My Portfolio Soon </h3>
       <h3> 📫 How to reach me <strong><a href="mailto:gabriel.bazart@gmail.com">gabriel.bazart@gmail.com</a></strong> </h3>
