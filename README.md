@@ -35,7 +35,7 @@
 
 
 <h2 align="center">📊 Stats:</h2>
-<table center="align">
+<table center="align" border="1">
       <tr>
             <td>
                   
