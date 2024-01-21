@@ -32,11 +32,13 @@
       <img src="https://img.shields.io/badge/-Postman-EF5B25?style=for-the-badge&labelColor=black&logo=postman&logoColor=EF5B25">
 </div>
 
+![Cdurdetrouver's GitHub stats](https://github-readme-stats-five-gules.vercel.app/api?username=cdurdetrouver&count_private=true&show_icons=true&theme=radical)
+![gbazart's 42 stats](https://badge.mediaplus.ma/greenbinary/gbazart)
+
 <h2 align="center">📊 GitHub Stats:</h2>
 <table center="align">
       <tr>
-![Cdurdetrouver's GitHub stats](https://github-readme-stats-five-gules.vercel.app/api?username=cdurdetrouver&count_private=true&show_icons=true&theme=radical)
-![gbazart's 42 stats](https://badge.mediaplus.ma/greenbinary/gbazart)
+
             <td>
                   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=cdurdetrouver&show_icons=true&locale=en&layout=compact&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="cdurdetrouver" />
             </td>
