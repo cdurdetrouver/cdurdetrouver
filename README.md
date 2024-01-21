@@ -5,12 +5,12 @@
 
 <h1 align="center">💫 About Me:</h1>
 <div align ="center">
-      <p> 🔭 I’m currently student at &emsp; <a href="https://42.fr/"><img src="https://42.fr/wp-content/uploads/2021/05/42-Final-sigle-seul.svg" height="20px"/></a> </p>
-      <p> 🌱 I’m currently learning <strong>SvelteKit</strong> </p>
-      <p> 👯 I’m looking to collaborate on <strong>OpenSource Projects</strong> </p>
-      <p> 👨‍💻 All of my projects are available at My Portfolio Soon </p>
-      <p> 📫 How to reach me <strong><a href="mailto:gabriel.bazart@gmail.com">gabriel.bazart@gmail.com</a></strong> </p>
-      <p> ⚡ Fun fact <strong>Puss in boots 2 is the GOAT</strong> </p>
+      <h3> 🔭 I’m currently student at &emsp; <a href="https://42.fr/"><img src="https://42.fr/wp-content/uploads/2021/05/42-Final-sigle-seul.svg" height="20px"/></a> </h3>
+      <h3> 🌱 I’m currently learning <strong>SvelteKit</strong> </h3>
+      <h3> 👯 I’m looking to collaborate on <strong>OpenSource Projects</strong> </h3>
+      <h3> 👨‍💻 All of my projects are available at My Portfolio Soon </h3>
+      <h3> 📫 How to reach me <strong><a href="mailto:gabriel.bazart@gmail.com">gabriel.bazart@gmail.com</a></strong> </h3>
+      <h3> ⚡ Fun fact <strong>Puss in boots 2 is the GOAT</strong> </h3>
 </div>  
 
 <h1 align="center">🌐 Socials:</h1>
