@@ -31,6 +31,7 @@
       &nbsp;&nbsp;
       <img src="https://img.shields.io/badge/-C++-044F88?style=for-the-badge&labelColor=black&logo=cplusplus&logoColor=044F88">
       <br>
+      <br>
       <img src="https://img.shields.io/badge/-Python-4B8BBE?style=for-the-badge&labelColor=black&logo=python&logoColor=4B8BBE">
       &nbsp;&nbsp;
       <img src="https://img.shields.io/badge/-MySQL-00758F?style=for-the-badge&labelColor=black&logo=mysql&logoColor=00758F">
