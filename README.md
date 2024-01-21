@@ -36,6 +36,9 @@
 
 <h2 align="center">📊 Stats:</h2>
 <table center="align">
+       <tr align="center">
+            <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/darkgray/gbazart?1337Badge=off&UM6P=off" alt="gbazart's 42 stats" /></a>
+      </tr>
       <tr>
             <td>
                   
@@ -44,9 +47,6 @@
             <td>
                   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=cdurdetrouver&show_icons=true&locale=en&layout=compact&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="cdurdetrouver" />
             </td>
-      </tr>
-      <tr align="center">
-            <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/darkgray/gbazart?1337Badge=off&UM6P=off" alt="gbazart's 42 stats" /></a>
       </tr>
 </table>
 
