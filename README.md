@@ -5,7 +5,7 @@
 
 <h1 align="center">💫 About Me:</h1>
 <div align ="center">
-      <p> 🔭 I’m currently student at &emsp; <a href="https://42.fr/"><img src="https://42.fr/wp-content/uploads/2021/05/42-Final-sigle-seul.svg"/></a> </p>
+      <p> 🔭 I’m currently student at &emsp; <a href="https://42.fr/"><img src="https://42.fr/wp-content/uploads/2021/05/42-Final-sigle-seul.svg" height="30px"/></a> </p>
       <p> 🌱 I’m currently learning <strong>SvelteKit</strong> </p>
       <p> 👯 I’m looking to collaborate on <strong>OpenSource Projects</strong> </p>
       <p> 👨‍💻 All of my projects are available at My Portfolio Soon </p>
