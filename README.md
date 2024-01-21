@@ -22,6 +22,7 @@
 <h2 align="center">💻 Tech Stack:</h2>
 <div align="center">
       <img src="https://img.shields.io/badge/-HTML5-f06529?style=for-the-badge&labelColor=black&logo=html5&logoColor=f06529"> 
+      &nbsp;
       <img src="https://img.shields.io/badge/-CSS3-2965f1?style=for-the-badge&labelColor=black&logo=css3&logoColor=2965f1">
       <img src="https://img.shields.io/badge/Sass-c69?style=for-the-badge&labelColor=black&logo=sass&logoColor=c69">
       <img src="https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F"> 
