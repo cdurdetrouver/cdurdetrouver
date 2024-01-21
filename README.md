@@ -32,8 +32,6 @@
       <img src="https://img.shields.io/badge/-Postman-EF5B25?style=for-the-badge&labelColor=black&logo=postman&logoColor=EF5B25">
 </div>
 
-
-
 <h2 align="center">📊 Stats:</h2>
 <table align="center" border="0">
       <tr>
