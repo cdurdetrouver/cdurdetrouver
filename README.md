@@ -2,7 +2,7 @@
       <a href="#"><img height="auto" src="https://media0.giphy.com/media/YRMb6dd7zprS00JdGZ/giphy.gif?cid=ecf05e47pp9oy2ivxoy3aif9mvewoex6jc5ywnem9njblkob&ep=v1_stickers_search&rid=giphy.gif&ct=s"/></a>
 </div>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Gabriel</h1>  
-<br><br>
+
 <h1 align="center">💫 About Me:</h1>
 <div align ="center">
       <p> 🔭 I’m currently student at &emsp; <a href="https://42.fr/"><img src="https://42.fr/wp-content/uploads/2021/05/42-Final-sigle-seul.svg"/></a> </p>
@@ -12,13 +12,13 @@
       <p> 📫 How to reach me <strong><a href="mailto:gabriel.bazart@gmail.com">gabriel.bazart@gmail.com</a></strong> </p>
       <p> ⚡ Fun fact <strong>Puss in boots 2 is the GOAT</strong> </p>
 </div>  
-<br>
+
 <h1 align="center">🌐 Socials:</h1>
 <div align="center">
       <a href="https://discord.gg/https://discord.gg/HzqrkbqH7x"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" height="35px"></a>
       <a href="https://www.linkedin.com/in/gabriel-bazart-87b3ab265/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" height="35px"></a>
 </div>  
-<br>
+
 <h1 align="center">💻 Tech Stack:</h1>
 <div align="center">
       <img src="https://img.shields.io/badge/-HTML5-f06529?style=for-the-badge&labelColor=black&logo=html5&logoColor=f06529"> 
@@ -40,7 +40,7 @@
       &nbsp;&nbsp;
       <img src="https://img.shields.io/badge/-Postman-EF5B25?style=for-the-badge&labelColor=black&logo=postman&logoColor=EF5B25">
 </div>  
-<br>
+
 <h1 align="center">📊 Stats:</h1>
 <table align="center" border="0">
       <tr>
