@@ -13,6 +13,7 @@
       <p> ⚡ Fun fact <strong>Puss in boots 2 is the GOAT</strong> </p>
 </div>
 
+  
 <h2 align="center">🌐 Socials:</h2>
 <div align="center">
       <a href="https://discord.gg/https://discord.gg/HzqrkbqH7x"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white"></a>
