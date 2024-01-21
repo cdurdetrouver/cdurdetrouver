@@ -45,4 +45,5 @@
 </tr>
 </table>
 
+<h2 align="center">42's stat:</h2>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
