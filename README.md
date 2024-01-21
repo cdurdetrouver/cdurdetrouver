@@ -38,6 +38,7 @@
 <td>
 
 ![Cdurdetrouver's GitHub stats](https://github-readme-stats-five-gules.vercel.app/api?username=cdurdetrouver&count_private=true&show_icons=true&theme=radical)
+
 ![gbazart's 42 stats](https://badge.mediaplus.ma/greenbinary/gbazart)
 
 </td>
